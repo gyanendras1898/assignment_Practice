@@ -1,0 +1,16 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: grey;
+}
+#evaluatedText {
+  position: absolute;
+  margin-top: 10vh;
+  margin-left: 10vw;
+  min-width: 80vw;
+  min-height: 80vh;
+}
+h3 {
+  margin-left: 12vw;
+  margin-top: 2vh;
+}
